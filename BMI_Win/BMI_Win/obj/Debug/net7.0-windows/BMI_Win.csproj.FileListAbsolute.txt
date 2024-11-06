@@ -1,0 +1,17 @@
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\bin\Debug\net7.0-windows\BMI_Win.exe
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\bin\Debug\net7.0-windows\BMI_Win.deps.json
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\bin\Debug\net7.0-windows\BMI_Win.runtimeconfig.json
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\bin\Debug\net7.0-windows\BMI_Win.dll
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\bin\Debug\net7.0-windows\BMI_Win.pdb
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.Form1.resources
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.csproj.GenerateResource.cache
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.AssemblyInfoInputs.cache
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.AssemblyInfo.cs
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.csproj.CoreCompileInputs.cache
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.dll
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\refint\BMI_Win.dll
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.pdb
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.genruntimeconfig.cache
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\ref\BMI_Win.dll
+C:\Users\44753\source\repos\BMI_Win\BMI_Win\obj\Debug\net7.0-windows\BMI_Win.Form2.resources
