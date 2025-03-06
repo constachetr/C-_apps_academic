@@ -1,0 +1,7 @@
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\bin\Debug\Vending Machine oop.exe.config
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\bin\Debug\Vending Machine oop.exe
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\bin\Debug\Vending Machine oop.pdb
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\obj\Debug\Vending Machine oop.csproj.AssemblyReference.cache
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\obj\Debug\Vending Machine oop.csproj.CoreCompileInputs.cache
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\obj\Debug\Vending Machine oop.exe
+C:\Users\44753\source\repos\Vending Machine oop\Vending Machine oop\obj\Debug\Vending Machine oop.pdb
