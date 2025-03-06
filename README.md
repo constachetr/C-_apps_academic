@@ -115,31 +115,6 @@ Change returned: £5.00
    ```
 4. **Follow the On-Screen Menu to Interact with the Vending Machine** 🎮  
 
----
-
-## **👨‍💻 Contributing**
-🔹 **Want to contribute?**  
-If you’d like to **add new features**, **fix bugs**, or **enhance security**, feel free to **submit a pull request**.
-
-📌 **Suggestions?** Open an **issue** to discuss **improvements** or **new feature requests**.
-
----
-
-## **📜 License**
-This project is **open-source** and available under the **MIT License**.
-
----
-
-## **📬 Contact & Connect**
-If you like this project and want to collaborate or discuss **C# and software development**, feel free to **connect with me**:
-
-📧 **Email**: your.email@example.com  
-💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com)  
-🐙 **GitHub**: [github.com/your-github-username](https://github.com/)  
-
-📌 **If you found this project useful, don't forget to give it a ⭐ on GitHub!**  
-
----
 
 ## **🌟 Final Thoughts**
 This **Vending Machine OOP project** is a **great showcase** of my **C# programming skills**, **problem-solving ability**, and **understanding of Object-Oriented Design**.
@@ -160,8 +135,3 @@ If you are looking for a **C# developer** with a **strong understanding of OOP, 
 
 💼 **I'm open to full-time roles, internships, or freelance projects.** Feel free to reach out! 😊
 
----
-
-This README is structured to **impress potential employers and recruiters**, showcasing your **technical skills, project design, and problem-solving abilities**.
-
-**Let me know if you need any tweaks!** 🚀💡
